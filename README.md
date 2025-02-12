@@ -1,5 +1,5 @@
 
-This repository includes the source code of "**Heterophilous to Homophilous Graph Transformation Based on Deep Generative Framework**"
+This repository includes the source code of "**Restructuring Heterophilous Graphs for Enhanced GNN Performance: A Deep Generative Approach with Kolmogorov-Arnold Networks**"
 
 # Requirements
 
